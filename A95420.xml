@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo epitaphs, occasioned by the death of Sr Charles Lucas, and Sr George Lisle, basely assassinated at Colchester.</title>
+            <author>Philanactos, Demophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95420</idno>
+            <idno type="STC">Wing T3440</idno>
+            <idno type="STC">Thomason E464_32</idno>
+            <idno type="STC">ESTC R203844</idno>
+            <idno type="EEBO-CITATION">99863646</idno>
+            <idno type="PROQUEST">99863646</idno>
+            <idno type="VID">115856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115856)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo epitaphs, occasioned by the death of Sr Charles Lucas, and Sr George Lisle, basely assassinated at Colchester.</title>
+                  <author>Philanactos, Demophilus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Demophilus Philanactos, which is a pseudonym.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept ye 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lisle, George, --  Sir, d. 1648.</term>
+               <term>Lucas, Charles, --  Sir, 1613-1648.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115856:1" rendition="simple:additions"/>
+            <p>TVVO EPITAPHS, OCCASIONED by the Death of S<hi rend="sup">r</hi> CHARLES LUCAS, AND S<hi rend="sup">r</hi> GEORGE LISLE, baſely aſſaſsinated at <hi>Colcheſter.</hi>
+            </p>
+            <q>
+               <hi>Contraria juxta ſe poſita magis eluceſcunt.</hi>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115856:2"/>
+            <head>TO THE RIGHT HONORABLE IOHN, Lord LUCAS.</head>
+            <opener>
+               <salute>My Lord;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Doctour of the Gentiles, of whom it is cer<g ref="char:EOLhyphen"/>taine ſome of us Engliſh-men are deſcended, (though many are degenerated into the very faith, or rather perfidiouſnes of the Jewes: ſome turnd
+<hi>Nulli-fidians,</hi> others plain Canni<g ref="char:EOLhyphen"/>bals, delighting with <hi>Cyrus</hi> in raw fleſh, and to wallow in bloud,) almoſt all Barbarians, not knowing, at leaſt not regarding Divine, Nationall, or Martiall Lawes; I ſay this great Doctour writing to the Theſſalonians with purpoſe to mitigate their ſorrow, for ſome departed friends, inſiſts altogether on the reſurrection, and future glory, that by the evidence of this argument they might aſſure themſelves they had not loſt, but ſhould certainely enjoy (and in the plenitude of all pleaſures) their dead friends. I will not ſay your Honour has loſt, but ſent before you a moſt noble Brother, whoſe death (like that of the Queene of Scots) our moſt gracious Soveraignes Grandmother <hi>(ſic parvis componere magna, &amp;c.)</hi> as it will redound to the perpetuall infamy of our Nation, ſo it ſhall be a laſting Ornament to your noble family; and therefore you may with ſymphoniack voices, and choiſeſt melody proſecute the fune<g ref="char:EOLhyphen"/>ralls of your moſt Loyall and worthy Brother; and ſuch as <hi>Ma<g ref="char:EOLhyphen"/>crobius</hi> witneſſeth was the cuſtome of the wiſeſt Gentiles in per<g ref="char:EOLhyphen"/>forming the ſolemne obſequies of thoſe Heroes, who had ſacrificed their lives for the ſafety of their Countrey, aſſuring themſelves their noble ſoules were tranſlated hence to heare the harmonious melody reſulting (as
+<hi>Pythagoras</hi> conſtantly affirmed) from the divinely ordred converſion of the heavenly ſpheres, and therefore
+<pb facs="tcp:115856:3"/> thoſe Ancients would accordingly with muſique, and honour con<g ref="char:EOLhyphen"/>duct ſuch happy ſpirits to the joyful manſions of eternall beatitude: Theſe gnomicall, yet conſolatory Monodies of <hi>Statius in Epi<g ref="char:EOLhyphen"/>cedio Glauci</hi> are too generall for your heroik thoughts.</p>
+            <q>
+               <lg>
+                  <head>Omnia functa, &amp;c.</head>
+                  <l>All dye, or elſe ſhall dye, the dayes and nights</l>
+                  <l>Are borne, and vaniſh: STARS put out their lights,</l>
+                  <l>Who for this thing call'd Man, will wet his eyes,</l>
+                  <l>That by ſo many ſeverall chaunces dyes?</l>
+               </lg>
+            </q>
+            <p>But certainely what <hi>Seneca</hi> writes to his honourable friend <hi>Po<g ref="char:EOLhyphen"/>lybius, Cum plus aequo fratris morte perturbaretur,</hi> may be ad<g ref="char:EOLhyphen"/>dreſſed to your noble ſelfe; <hi>Cum voles rerum omn ium obliviſci, cogita Caeſarem; fas non eſt tibi recordato Caeſare de fortuna queri;</hi> eſpecialy reflecting how your noble Brother ſo juſtly payd Caeſar what was Caeſars, couragiouſly dying for his Prince and Countrey, and as that famous Epaminondas the glo<g ref="char:EOLhyphen"/>ry of Thebes left two illuſtrius Daughters behinde him the Vi<g ref="char:EOLhyphen"/>ctories at <hi>Leuctra</hi> and <hi>Mantinea</hi> to perpetuate his memory: In like manner ſo many battailes in the defence of our King and King<g ref="char:EOLhyphen"/>dome, and Colcheſter with ſuch galantry defended are the ever-li<g ref="char:EOLhyphen"/>ving Off-ſpring of your renowned Brothers vertues; and may ſolidly comfort your Honour in the abſence of ſo brave a Parent of them, and your ſo neere Kinſman, which are the hearty deſires of, Your</p>
+            <closer>
+               <signed>
+                  <hi>Lordſhips unknowne ſervant;</hi> Demophilus Philanactos.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="epitaph">
+            <pb n="5" facs="tcp:115856:3"/>
+            <head>
+               <hi>2.</hi> Epitaphs, &amp;c.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Ongſt the black deeds of blacker <hi>Tom,</hi> this One</l>
+               <l>Be grav'n upon his Monumentall Stone;</l>
+               <l>Heere lyes a Fellow (Reader curſe his Duſt)</l>
+               <l>That kild a Worthy, of whom England muſt</l>
+               <l>Avouch he was not to be paralleld</l>
+               <l>For Loyalty, and Valour in the Field.</l>
+               <l>Had all things done by <hi>Fairfax</hi> been done well,</l>
+               <l>This Act had damn'd them all, and him to Hell.</l>
+            </lg>
+            <lg>
+               <l>NOW we'le adjoyn brave <hi>Lucas</hi> Epitaph;</l>
+               <l>Here ſweetly reſts his KINGS and Countries ſtaffe:</l>
+               <l>Expect no <hi>Hattons</hi> Tombe to ſet him forth,</l>
+               <l>His owne Deeds are beſt Heralds of his Worth,</l>
+               <l>And long-defended <hi>Colcheſters</hi> ſad Story.</l>
+               <l>The never ending Volume of his glory.</l>
+               <l>The King has loſt a CHAMPION, and true MIRROUR</l>
+               <l>Of <hi>Loyalty,</hi> the Parliament their TERROUR:</l>
+               <l>Souldiers have loſt a LEADER to the Field,</l>
+               <l>And in HIM only were ten thouſands kild.</l>
+               <l>(No <hi>Hamilton,</hi> that Troupes rais'd not long ſince</l>
+               <l>To free his King, but ſold both Troupes and Prince.)</l>
+               <l>His Houſe has loſt an Honour of their ſtemme,</l>
+               <l>Three Realmes a Chieftaine might have reſcu'd them:</l>
+               <l>What has the Parliament and <hi>Fairfax</hi> won</l>
+               <l>By cutting his lives threed, 'fore 'twas out ſpun?</l>
+               <l>Taken a few dayes off: Alas whilſt dayes</l>
+               <l>And Ages run, ſo long ſhall laſt his prayſe.</l>
+               <l>And this dries every teare, cures every maime,</l>
+               <l>CHARLES ſhall live ever regiſtred by Fame.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:115856:4"/>
+               <l>
+                  <hi>Tiberius</hi> hated Hiſtories, becauſe</l>
+               <l>He knew his owne foule deeds done 'gainſt all Lawes</l>
+               <l>Should be recorded, and Truth telling Fame</l>
+               <l>Would ſpeake his actions to the Actors ſhame:</l>
+               <l>Paſſion, and proper Intereſt dimme our ſight,</l>
+               <l>And very few in their owne cauſe judge right.</l>
+               <l>Impartiall Cenſors are the after times,</l>
+               <l>And freely dare pronounce Crimes to be Crimes:</l>
+               <l>Who not abhors <hi>Wat Tiler</hi> and <hi>Jack Cade?</hi>
+               </l>
+               <l>That ſuch Com'otions here in London made:</l>
+               <l>(Baſe Levellers) who durſt their Armies bring</l>
+               <l>By force to curbe, or take, or kill the King.</l>
+            </lg>
+            <lg>
+               <l>But let the Parliament prepare their eyes</l>
+               <l>From <hi>Lucas</hi> Aſhes <hi>Lucaſſes</hi> ſhall riſe;</l>
+               <l>
+                  <hi>Heroes,</hi> who like <hi>Eliſha</hi> ſhall inherit</l>
+               <l>In double meaſure, Noble <hi>Lucas</hi> ſpirit:</l>
+               <l>
+                  <hi>Heroes,</hi> who to their King and Countrey true,</l>
+               <l>Shall quell them, and their Independent Crew.</l>
+               <l>Thoſe Musketiers did unaware conſpire</l>
+               <l>To this miraculous Birth, when they gave Fire,</l>
+               <l>And Noble <hi>Lucas</hi> fell a VICTIME downe</l>
+               <l>To <hi>Fairfax</hi> Rage, and Parliamentall Gowne:</l>
+               <l>So is the Phenix life, but then begunne,</l>
+               <l>When on the odorous Pile his life is done.</l>
+               <l>For who reflecting on this WORTHIES fate</l>
+               <l>Vowes not revenge 'gainſt <hi>Fairfax,</hi> and the State?</l>
+               <l>And who'le refuſe in ſuch a Cauſe to dy,</l>
+               <l>That frees his Nation from baſe Tyranny?</l>
+               <l>(Nay the long Aſſe-ear'd Cockneies vext with feares,</l>
+               <l>Might doe ſome good, could they prick up their eares.)</l>
+               <l>So <hi>Lucas</hi> undeſerved Death ſhall bring</l>
+               <l>Much happineſſe to'th Kingdome, and the KING;</l>
+               <l>And <hi>Samſon</hi>-like dead LUCAS ſhall kill more</l>
+               <l>Preputiate Rebels then he did before.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <pb n="7" facs="tcp:115856:4"/>
+            <head>
+               <hi>On Sir</hi> George Liſle.</head>
+            <lg>
+               <l>
+                  <hi>LIſle,</hi> had I knowne thee, I ſhould praiſe thee more;</l>
+               <l>But now, as do's the Vulgar, I adore</l>
+               <l>Virtue by heare-ſay. May this be enough</l>
+               <l>To ſet thee forth, (more is ſuperfluous ſtuffe)</l>
+               <l>In WORTH, in LIFE, in DEATH, with LUCAS ſhare,</l>
+               <l>There never liv'd, nor dy'd a Worthier Paire:</l>
+               <l>And had not BOTH of YOU ſo MATCHLES been,</l>
+               <l>You had not felt <hi>Fairfax</hi> Vindictive ſpleene.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>George</hi> ſweetly reſt, ſprout Lawrels from thy Duſt,</l>
+               <l>Live ever with the world, and with the Juſt:</l>
+               <l>This <hi>Canzon</hi> with <hi>Apotheoſde</hi> Patriots ſing,</l>
+               <l>I dyed a Loyal Martyr for my King.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>On the Death of both theſe Worthies.</head>
+            <lg>
+               <l>VVHen <hi>Liſles</hi> and <hi>Lucas</hi> Tragedy began,</l>
+               <l>They look'd not at baſe <hi>Iretons</hi> Meſſage wan,</l>
+               <l>But as ſome <hi>Libian</hi> Lyon chaſt by Hounds,</l>
+               <l>(When force availes not) trotting on the grounds,</l>
+               <l>Diſdaines to flye, and rearing without dread</l>
+               <l>His Criſp'd maine up, turnes oft about his head,</l>
+               <l>And viewes the following Curres, then ſure to dye,</l>
+               <l>Acts his laſt <hi>Exit</hi> with much Majeſtie.</l>
+               <l>No otherwiſe our Cordelion Knights,</l>
+               <l>That had (undaunted) in ſo many fights</l>
+               <l>Look'd grim Death in the face, demand from whom,</l>
+               <l>The Parliament, or <hi>Fairfax</hi> came this doome?</l>
+            </lg>
+            <lg>
+               <l>'Tis anſwer'd, then the Raven ſtretcht his throate</l>
+               <l>When both the Houſes made this bloody Vote,</l>
+               <l>That all who wag'd war for the Royal Cauſe</l>
+               <l>Should ſuffer death by their Draconick Lawes.</l>
+               <l>
+                  <pb n="8" facs="tcp:115856:5"/>Our Cavaliers wel knowing 'twas in vaine</l>
+               <l>To argue, where PRIDE, WILL and MALICE raign,</l>
+               <l>Not Reaſon, nor true Honour; firſt commend</l>
+               <l>Their ſoules to God, then crowning their laſt end</l>
+               <l>With juſtice of their Cauſe, yeeld to the guns</l>
+               <l>Of <hi>Fairfax,</hi> and his Earth-borne Myrmidons.</l>
+               <l>
+                  <hi>Ob.</hi> Some fooles object, that going to their graves</l>
+               <l>They call'd the Sainted Faction Traitrous Knaves:</l>
+               <l>
+                  <hi>Reſp.</hi> Did not great <hi>Caeſar</hi> ſtab'd, and falling downe,</l>
+               <l>Call <hi>Caſca</hi> Raskall, then compoſe his Gowne?</l>
+               <l>Brave Soules, when to their ends they nearer be,</l>
+               <l>Are ſtrangely rapt, and Truths more clearly ſee.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
